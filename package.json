@@ -1,0 +1,28 @@
+{
+  "name": "cetus-volume-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donpushme/cetus-volume-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/donpushme/cetus-volume-bot/issues"
+  },
+  "homepage": "https://github.com/donpushme/cetus-volume-bot#readme",
+  "description": "",
+  "dependencies": {
+    "@cetusprotocol/cetus-sui-clmm-sdk": "^5.3.1",
+    "@mysten/sui": "^1.21.2",
+    "dotenv": "^16.4.7",
+    "ts-node": "^10.9.2",
+    "tsc": "^2.0.4",
+    "typescript": "^5.7.3"
+  }
+}
